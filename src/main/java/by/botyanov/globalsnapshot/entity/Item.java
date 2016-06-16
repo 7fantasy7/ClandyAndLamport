@@ -1,4 +1,4 @@
-package nl.tue.ds.entity;
+package by.botyanov.globalsnapshot.entity;
 
 import com.google.common.base.MoreObjects;
 

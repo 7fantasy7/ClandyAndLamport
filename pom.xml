@@ -70,7 +70,7 @@
                             </descriptorRefs>
                             <archive>
                                 <manifest>
-                                    <mainClass>nl.tue.ds.ServerLauncher</mainClass>
+                                    <mainClass>by.botyanov.globalsnapshot.ServerLauncher</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>

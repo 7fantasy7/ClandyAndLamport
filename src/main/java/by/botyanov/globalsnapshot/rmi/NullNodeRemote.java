@@ -1,6 +1,6 @@
-package nl.tue.ds.rmi;
+package by.botyanov.globalsnapshot.rmi;
 
-import nl.tue.ds.entity.Node;
+import by.botyanov.globalsnapshot.entity.Node;
 import org.jetbrains.annotations.NotNull;
 
 import java.rmi.RemoteException;
@@ -11,8 +11,7 @@ import java.rmi.server.UnicastRemoteObject;
  */
 public final class NullNodeRemote extends UnicastRemoteObject implements NodeServer {
 
-    @NotNull
-    private final Node node;
+    private final @NotNull Node node;
 
     public NullNodeRemote(@NotNull Node node) throws RemoteException {
         this.node = node;

@@ -1,6 +1,6 @@
-package nl.tue.ds.rmi;
+package by.botyanov.globalsnapshot.rmi;
 
-import nl.tue.ds.entity.Node;
+import by.botyanov.globalsnapshot.entity.Node;
 import org.jetbrains.annotations.NotNull;
 
 import java.rmi.Remote;

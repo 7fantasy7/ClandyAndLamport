@@ -1,4 +1,4 @@
-package nl.tue.ds.util;
+package by.botyanov.globalsnapshot.util;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

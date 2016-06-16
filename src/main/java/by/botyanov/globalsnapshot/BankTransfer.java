@@ -1,4 +1,4 @@
-package nl.tue.ds;
+package by.botyanov.globalsnapshot;
 
 /**
  * Holds bank transfer properties defined in "service.configuration"

@@ -1,11 +1,11 @@
-package nl.tue.ds;
+package by.botyanov.globalsnapshot;
 
-import nl.tue.ds.entity.Node;
-import nl.tue.ds.rmi.NodeRemote;
-import nl.tue.ds.util.InputUtil;
-import nl.tue.ds.util.NetworkUtil;
-import nl.tue.ds.util.RemoteUtil;
-import nl.tue.ds.util.StorageUtil;
+import by.botyanov.globalsnapshot.entity.Node;
+import by.botyanov.globalsnapshot.rmi.NodeRemote;
+import by.botyanov.globalsnapshot.util.InputUtil;
+import by.botyanov.globalsnapshot.util.NetworkUtil;
+import by.botyanov.globalsnapshot.util.RemoteUtil;
+import by.botyanov.globalsnapshot.util.StorageUtil;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jetbrains.annotations.NotNull;

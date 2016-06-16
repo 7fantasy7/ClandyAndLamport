@@ -1,8 +1,8 @@
-package nl.tue.ds.entity;
+package by.botyanov.globalsnapshot.entity;
 
+import by.botyanov.globalsnapshot.BankTransfer;
+import by.botyanov.globalsnapshot.util.StorageUtil;
 import com.google.common.base.MoreObjects;
-import nl.tue.ds.BankTransfer;
-import nl.tue.ds.util.StorageUtil;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.Serializable;

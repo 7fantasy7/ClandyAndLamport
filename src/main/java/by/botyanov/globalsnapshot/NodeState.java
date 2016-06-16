@@ -1,4 +1,4 @@
-package nl.tue.ds;
+package by.botyanov.globalsnapshot;
 
 public enum NodeState {
     CONNECTED, DISCONNECTED
